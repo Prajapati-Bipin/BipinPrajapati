@@ -1,9 +1,3 @@
-
-<!--
-  GitHub Profile README
-  Author: Bipin Prajapati
--->
-
 <div align="center">
 
 # Hey, I'm Bipin Prajapati 👋
@@ -18,10 +12,7 @@ Building modern, scalable and user-focused digital experiences.
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/Prajapati-Bipin">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.freelancer.in/u/prajapatiworks">
-  <img src="https://img.shields.io/badge/Freelancer-Hire%20Me-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -42,11 +33,9 @@ I enjoy turning ideas into functional, visually appealing and high-performance w
 - 🤖 Exploring AI tools, automation and intelligent workflows.
 - 🌱 Always learning, experimenting and building new things.
 
-**My philosophy:** Good websites aren't just about how they look. They're about how they work.
-
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ### Frontend Development
 
@@ -68,7 +57,7 @@ I enjoy turning ideas into functional, visually appealing and high-performance w
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-### Tools & Workflow
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
@@ -78,38 +67,18 @@ I enjoy turning ideas into functional, visually appealing and high-performance w
 
 ## 💼 Featured Projects
 
-### 🛍️ Shopify & eCommerce
+### Shopify & eCommerce
 
-| Project | Description |
-|---|---|
-| [Elyment Fashion](https://elymentfa.com) | Shopify store redesign and custom shopping experience. |
-| [StoneKii](https://stonekii.com) | Custom Shopify theme with interactive sections and product experiences. |
-| [Print Your Vibe](https://printyourvibe.in) | Custom eCommerce experience for personalized products. |
-| [Advent Calendar NZ](https://adventcalendarnz.co.nz) | Shopify eCommerce development. |
-| [Girly Candles](https://girlycandles.com) | Shopify store customization. |
+- **[Elyment Fashion](https://elymentfa.com)** – Shopify store redesign and custom shopping experience.
+- **[StoneKii](https://stonekii.com)** – Custom Shopify theme with interactive sections and product experiences.
+- **[Print Your Vibe](https://printyourvibe.in)** – Custom eCommerce experience for personalized products.
+- **[Advent Calendar NZ](https://adventcalendarnz.co.nz)** – Shopify eCommerce development.
+- **[Girly Candles](https://girlycandles.com)** – Shopify store customization.
 
-### 🌐 Custom Web Development
+### Custom Web Development
 
-| Project | Description |
-|---|---|
-| [Simian Travels](https://www.simiantravels.com/) | Travel website with responsive UI and custom frontend development. |
-| [My Portfolio](https://bipin-portfolio-neon.vercel.app/) | Personal portfolio showcasing my work and projects. |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prajapati-Bipin&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajapati-Bipin&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Prajapati-Bipin&theme=tokyonight&hide_border=true" />
-
-</div>
+- **[Simian Travels](https://www.simiantravels.com/)** – Responsive travel website and custom frontend development.
+- **[Portfolio](https://bipin-portfolio-neon.vercel.app/)** – Personal portfolio showcasing my work and projects.
 
 ---
 
@@ -122,18 +91,12 @@ I'm always interested in interesting projects, collaborations and opportunities 
 <a href="https://bipin-portfolio-neon.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 <a href="https://github.com/Prajapati-Bipin">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### ⭐ Thanks for visiting my profile!
-
-**Let's build something amazing together.**
+### Thanks for visiting my profile! 👋
 
 </div>
-
