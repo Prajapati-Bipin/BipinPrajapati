@@ -113,16 +113,6 @@ I enjoy turning ideas into functional, visually appealing and high-performance w
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Prajapati-Bipin/Prajapati-Bipin/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in interesting projects, collaborations and opportunities to build something useful.
